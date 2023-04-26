@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net" modified="2023-04-26T23:30:32.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ddnua99r5pO8rR72q-Jr" version="21.1.8" type="github">
+  <diagram name="Page-1" id="LyHGEnbdNlu3BhKVa_gH">
+    <mxGraphModel dx="3134" dy="2907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GGywUjwshDMWMK20uxHe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GGywUjwshDMWMK20uxHe-6" target="GGywUjwshDMWMK20uxHe-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1660.5" y="-1920" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGywUjwshDMWMK20uxHe-4" value="informix&lt;br&gt;Oracle" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-1533" y="-2100" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GGywUjwshDMWMK20uxHe-6" value="Weblogic" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="-1950" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GGywUjwshDMWMK20uxHe-7" value="EAR" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/applications/enterprise_applications.svg;labelBackgroundColor=#ffffff;strokeColor=#666666;strokeWidth=2;fillColor=#C2952D;gradientColor=none;fontSize=12;fontColor=#4277BB;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1637" y="-1930" width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="GGywUjwshDMWMK20uxHe-12" value="Kubernetes" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="-1780" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GGywUjwshDMWMK20uxHe-13" value="microservicio" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/applications/enterprise_applications.svg;labelBackgroundColor=#ffffff;strokeColor=#666666;strokeWidth=2;fillColor=#C2952D;gradientColor=none;fontSize=12;fontColor=#4277BB;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1637" y="-1760" width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="GGywUjwshDMWMK20uxHe-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GGywUjwshDMWMK20uxHe-14" target="GGywUjwshDMWMK20uxHe-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GGywUjwshDMWMK20uxHe-14" value="4GL / SPL" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="-2190" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GGywUjwshDMWMK20uxHe-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1300" y="-1820" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GGywUjwshDMWMK20uxHe-8" value="cluster-kafka-replica" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="GGywUjwshDMWMK20uxHe-15">
+          <mxGeometry width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GGywUjwshDMWMK20uxHe-10" value="topic-&amp;lt;online&amp;gt;-&amp;lt;bd&amp;gt;-&amp;lt;tablaxx&amp;gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="GGywUjwshDMWMK20uxHe-15">
+          <mxGeometry x="25" y="32" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GGywUjwshDMWMK20uxHe-11" value="topic-&amp;lt;online&amp;gt;-&amp;lt;bd&amp;gt;-&amp;lt;tablazz&amp;gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="GGywUjwshDMWMK20uxHe-15">
+          <mxGeometry x="25" y="78" width="190" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
