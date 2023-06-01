@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T14:03:08.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="2JW-3dH8Lsa4hpOnffqz" version="21.3.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-01T14:04:05.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ASdvA6fgZQxzVx4f3S5F" version="21.3.6" type="github" pages="2">
   <diagram name="Página-1" id="uqcKvw1EdFWnBVs4XfPW">
     <mxGraphModel dx="3847" dy="1842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -326,6 +326,9 @@
         <mxCell id="mbb0dnblDFjQmG-bymVn-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.535;entryY=0.928;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6qAZvgIAt50VhSxmji9u-2" target="sUnsv2MHEJyo5j5Mu6Eo-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mbb0dnblDFjQmG-bymVn-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6qAZvgIAt50VhSxmji9u-2" target="mbb0dnblDFjQmG-bymVn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6qAZvgIAt50VhSxmji9u-2" value="Funcionario Tributario" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#00CC00;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.users;" vertex="1" parent="1">
           <mxGeometry x="-1630" y="788.8" width="60" height="60" as="geometry" />
         </mxCell>
@@ -448,8 +451,18 @@
         <mxCell id="mbb0dnblDFjQmG-bymVn-1" value="SINE" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application;fillColor=#f8cecc;strokeColor=#b85450;aspect=fixed;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-177.81000000000023" y="780" width="62" height="68.8" as="geometry" />
         </mxCell>
+        <mxCell id="mbb0dnblDFjQmG-bymVn-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.631;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mbb0dnblDFjQmG-bymVn-2" target="6qAZvgIAt50VhSxmji9u-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-450" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1289" y="960" />
+              <mxPoint x="-400" y="960" />
+              <mxPoint x="-400" y="558" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mbb0dnblDFjQmG-bymVn-2" value="RSIRAT" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;dashed=1;strokeColor=#3399FF;fillColor=none;strokeWidth=2;fillOpacity=100;" vertex="1" parent="1">
-          <mxGeometry x="-1418.6" y="800" width="258.6" height="360" as="geometry" />
+          <mxGeometry x="-1418.6" y="800" width="258.6" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mbb0dnblDFjQmG-bymVn-3" value="bcp171.4gi" style="whiteSpace=wrap;html=1;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-133.63" y="463" width="115.25" height="33" as="geometry" />
