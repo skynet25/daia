@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T17:09:27.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="fLb5XvRzTwUJ71QJA49H" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T23:00:58.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="5xYV76DwPYUV9YRgzucY" version="24.0.2" type="github">
   <diagram name="Página-1" id="nPnS-npcXqcOk9-AM_7p">
-    <mxGraphModel dx="2261" dy="1926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -341,6 +341,20 @@
             <Array as="points">
               <mxPoint x="867" y="-60" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hk-cd0pmr9pBPQPgSmE_-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1149" y="527.5" as="sourcePoint" />
+            <mxPoint x="1149" y="419.25" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hk-cd0pmr9pBPQPgSmE_-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="362" as="sourcePoint" />
+            <mxPoint x="1280" y="362.38" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
