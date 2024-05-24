@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T18:46:27.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ttIsZyO3nEz8pNibucLa" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T19:49:59.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="whA6PPyl7U3jkv5R6xxe" version="24.4.8" type="github">
   <diagram name="Página-1" id="nPnS-npcXqcOk9-AM_7p">
     <mxGraphModel dx="2501" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,12 @@
           <mxGeometry x="650" y="-27.5" width="110" height="127.5" as="geometry" />
         </mxCell>
         <mxCell id="e_DzQCpD5upc4EDRTpxR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="e_DzQCpD5upc4EDRTpxR-6" target="e_DzQCpD5upc4EDRTpxR-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="200" />
+              <mxPoint x="200" y="305" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="e_DzQCpD5upc4EDRTpxR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="e_DzQCpD5upc4EDRTpxR-6" target="e_DzQCpD5upc4EDRTpxR-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -60,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e_DzQCpD5upc4EDRTpxR-6" value="Datastage&lt;br&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="365" y="160" width="165" height="80" as="geometry" />
+          <mxGeometry x="340" y="160" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e_DzQCpD5upc4EDRTpxR-7" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" parent="1" vertex="1">
           <mxGeometry x="480" y="197" width="33" height="33" as="geometry" />
@@ -224,9 +229,9 @@
         <mxCell id="eqh-2XdD3VAzymMcWl3K-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="eqh-2XdD3VAzymMcWl3K-23" target="eqh-2XdD3VAzymMcWl3K-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;mso-ansi-language:EN-US&quot;&gt;POST: http://api.sunat.peru/v1/recurso/documentacion/masivo/t/notificacioneselectronicas/procesarpedidonotificaciones&lt;/span&gt;&lt;/p&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:8.0pt;mso-bidi-font-size:11.0pt;line-height:&lt;br/&gt;115%;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:EN-US&quot;&gt;GET:&lt;br&gt;http://api.sunat.peru/v1/recurso/documentacion/masivo/e/pedidonotificaciones/&amp;lt;numpedido&amp;gt;&lt;/span&gt;" link="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;mso-ansi-language:EN-US&quot;&gt;POST: http://api.sunat.peru/v1/recurso/documentacion/masivo/t/notificacioneselectronicas/procesarpedidonotificaciones&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:8.0pt;mso-bidi-font-size:11.0pt;line-height:&#xa;115%;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&#xa;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;&#xa;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&#xa;EN-US;mso-bidi-language:EN-US&quot;&gt;GET:&#xa;http://api.sunat.peru/v1/recurso/documentacion/masivo/e/pedidonotificaciones/&amp;lt;numpedido&amp;gt;&lt;/span&gt;" id="eqh-2XdD3VAzymMcWl3K-25">
+        <UserObject label="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;mso-ansi-language:EN-US&quot;&gt;POST:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;http://api.sunat.peru/v1/recurso/documentacion/masivo/t/notificacioneselectronicas/procesarpedidonotificaciones&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 8pt; background-color: initial;&quot;&gt;GET:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: Arial, sans-serif; font-size: 8pt;&quot;&gt;http://api.sunat.peru/v1/recurso/documentacion/masivo/e/pedidonotificaciones/&amp;lt;numpedido&amp;gt;&lt;/span&gt;&lt;/p&gt;" link="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;mso-ansi-language:EN-US&quot;&gt;POST: http://api.sunat.peru/v1/recurso/documentacion/masivo/t/notificacioneselectronicas/procesarpedidonotificaciones&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:8.0pt;mso-bidi-font-size:11.0pt;line-height:&#xa;115%;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&#xa;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;&#xa;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&#xa;EN-US;mso-bidi-language:EN-US&quot;&gt;GET:&#xa;http://api.sunat.peru/v1/recurso/documentacion/masivo/e/pedidonotificaciones/&amp;lt;numpedido&amp;gt;&lt;/span&gt;" id="eqh-2XdD3VAzymMcWl3K-25">
           <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="1650" y="-310" width="560" height="130" as="geometry" />
+            <mxGeometry x="1750" y="-320" width="560" height="70" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
