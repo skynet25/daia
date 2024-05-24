@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T16:49:04.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="_cryv5QKYkhjp3bszbyH" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T18:46:27.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ttIsZyO3nEz8pNibucLa" version="24.4.8" type="github">
   <diagram name="Página-1" id="nPnS-npcXqcOk9-AM_7p">
     <mxGraphModel dx="2501" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -210,7 +210,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eqh-2XdD3VAzymMcWl3K-18" value="&lt;u&gt;&lt;b&gt;Cola&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;&lt;code&gt;queue/AuditoriaAccionFisQueue&lt;/code&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="-110" width="110" height="90" as="geometry" />
+          <mxGeometry x="1480" y="-110" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eqh-2XdD3VAzymMcWl3K-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2080" y="50" width="250" height="170" as="geometry" />
