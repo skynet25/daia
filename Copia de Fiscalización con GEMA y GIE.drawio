@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T21:40:30.281Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="IHmNd0JYVq3Uuv-bCewR" version="24.4.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-10T20:16:37.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="5yli6H_ZjuNjYczIRBb5" version="24.4.10" type="github" pages="2">
   <diagram name="Página-1" id="nPnS-npcXqcOk9-AM_7p">
     <mxGraphModel dx="2362" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -499,8 +499,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copia de Página-1" id="sCdNvTaI-WFqyte54Tjb">
-    <mxGraphModel dx="2261" dy="1876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="Cambios" id="sCdNvTaI-WFqyte54Tjb">
+    <mxGraphModel dx="1551" dy="1508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="uWwfS1ChPkeKINZTVWti-0" />
         <mxCell id="uWwfS1ChPkeKINZTVWti-1" parent="uWwfS1ChPkeKINZTVWti-0" />
@@ -726,8 +726,8 @@
         <mxCell id="uWwfS1ChPkeKINZTVWti-54" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="uWwfS1ChPkeKINZTVWti-1" source="uWwfS1ChPkeKINZTVWti-53" target="uWwfS1ChPkeKINZTVWti-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uWwfS1ChPkeKINZTVWti-55" value="&lt;u&gt;&lt;b&gt;Cola&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;&lt;code&gt;queue/AuditoriaAccionFisQueue&lt;/code&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uWwfS1ChPkeKINZTVWti-1">
-          <mxGeometry x="1480" y="-110" width="200" height="90" as="geometry" />
+        <mxCell id="uWwfS1ChPkeKINZTVWti-55" value="&lt;u&gt;&lt;b&gt;Cola&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;&lt;code&gt;queue/AuditoriaAccionFisQueue&lt;/code&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;code&gt;&lt;div&gt;queue/FPEGenAccFisQueue&lt;/div&gt;&lt;div&gt;queue/FPEFinPlazoQueue&lt;/div&gt;&lt;div&gt;queue/FPECierreAccFisQueue&lt;/div&gt;&lt;div&gt;queue/FPETransFisQueue&lt;/div&gt;&lt;/code&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uWwfS1ChPkeKINZTVWti-1">
+          <mxGeometry x="1480" y="-87.5" width="200" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="uWwfS1ChPkeKINZTVWti-56" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;" vertex="1" parent="uWwfS1ChPkeKINZTVWti-1">
           <mxGeometry x="2080" y="50" width="250" height="110" as="geometry" />
